@@ -1,0 +1,331 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-75:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/cedb6ccc5bbe599139ffc42974cfe560/transformed/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [:ARPresto:] /Users/benjaminpreston/.gradle/caches/transforms-3/76391d3d28f9ea3e337f13672f381fb2/transformed/ARPresto/AndroidManifest.xml:2:1-11:12
+MERGED from [:UnityARCore:] /Users/benjaminpreston/.gradle/caches/transforms-3/dcf2140ffa33c7502f579e39b6c457f6/transformed/UnityARCore/AndroidManifest.xml:2:1-11:12
+MERGED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:17:1-49:12
+MERGED from [:unityandroidpermissions:] /Users/benjaminpreston/.gradle/caches/transforms-3/42c0cf2e95ee61ff19c8f4fbdad1042c/transformed/unityandroidpermissions/AndroidManifest.xml:6:1-15:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/0d9c5ab54af66261b6cb7d570509dd56/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/778fcb46d32bba53df7ac8b3de81afe9/transformed/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/62d8b8a67289c8d04722d7b8f2f8e2e5/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/6e10fba47c1e82f582f1390983adf319/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/9b99c1cf53ee433e9e79a40e0c2cd320/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/885deb4f165d47258f99bd76b95e56ff/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/815e03dc4a322c652e2fea223f044009/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/1980b634020f4617022eac1c465cf1c6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/c6bf8524dd1694266bf85b5de64bec83/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/6801b8e4b0f36e370528679d3fc501d2/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/bc0537de9debaa3cadc9f911e9458609/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/6bb25ca2ae33cfdd15a4aa5a69d1baa3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/391c42ab2febe2fc279052f340a74f66/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/2a03e1d85ee5e488e344aa09a324f949/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/2b9e59b9c2d8c066171138a11c1dd1ee/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/c9f86e79a74701b38ecef97825726332/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/79e04463fe7158087356f3d3db09c450/transformed/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/4721dea4175f2d5fc04a6d7c2d9352f8/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/632ccb188dbcc3bf23d4419689367c50/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/1d05f978adabceedabaf7f8d5cc67820/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/ba8fb70a59c1ff4473e0c98b4fa0c34c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/b5e06493e7e0180619e18d605304f2ed/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/ee5753c281f445ac1052255b134d0eaa/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/58b73bd7f7f634e2e3d2d09c92ebd6d8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/7fc84a911615925cbca4b39cdb58669e/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/68b3bcc208e4f04d1ce57b2a38c32d35/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/4f757a42140b941bc194cdd6c573cfa9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/4d87f593bfc150cdeeacaecfff9c40ec/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-104
+		INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:105-151
+	android:versionCode
+		INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:152-192
+supports-screens
+ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:33:5-73:19
+MERGED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:33:5-73:19
+MERGED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:33:5-47:19
+MERGED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:33:5-47:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/0d9c5ab54af66261b6cb7d570509dd56/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/0d9c5ab54af66261b6cb7d570509dd56/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/778fcb46d32bba53df7ac8b3de81afe9/transformed/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/778fcb46d32bba53df7ac8b3de81afe9/transformed/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/62d8b8a67289c8d04722d7b8f2f8e2e5/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/62d8b8a67289c8d04722d7b8f2f8e2e5/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/79e04463fe7158087356f3d3db09c450/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/79e04463fe7158087356f3d3db09c450/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/4721dea4175f2d5fc04a6d7c2d9352f8/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/4721dea4175f2d5fc04a6d7c2d9352f8/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/79e04463fe7158087356f3d3db09c450/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/cedb6ccc5bbe599139ffc42974cfe560/transformed/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/cedb6ccc5bbe599139ffc42974cfe560/transformed/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [:ARPresto:] /Users/benjaminpreston/.gradle/caches/transforms-3/76391d3d28f9ea3e337f13672f381fb2/transformed/ARPresto/AndroidManifest.xml:7:5-9:41
+MERGED from [:ARPresto:] /Users/benjaminpreston/.gradle/caches/transforms-3/76391d3d28f9ea3e337f13672f381fb2/transformed/ARPresto/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityARCore:] /Users/benjaminpreston/.gradle/caches/transforms-3/dcf2140ffa33c7502f579e39b6c457f6/transformed/UnityARCore/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityARCore:] /Users/benjaminpreston/.gradle/caches/transforms-3/dcf2140ffa33c7502f579e39b6c457f6/transformed/UnityARCore/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:25:5-27:41
+MERGED from [:unityandroidpermissions:] /Users/benjaminpreston/.gradle/caches/transforms-3/42c0cf2e95ee61ff19c8f4fbdad1042c/transformed/unityandroidpermissions/AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] /Users/benjaminpreston/.gradle/caches/transforms-3/42c0cf2e95ee61ff19c8f4fbdad1042c/transformed/unityandroidpermissions/AndroidManifest.xml:11:5-13:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/0d9c5ab54af66261b6cb7d570509dd56/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/0d9c5ab54af66261b6cb7d570509dd56/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/778fcb46d32bba53df7ac8b3de81afe9/transformed/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/778fcb46d32bba53df7ac8b3de81afe9/transformed/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/62d8b8a67289c8d04722d7b8f2f8e2e5/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/62d8b8a67289c8d04722d7b8f2f8e2e5/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/6e10fba47c1e82f582f1390983adf319/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/6e10fba47c1e82f582f1390983adf319/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/9b99c1cf53ee433e9e79a40e0c2cd320/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/9b99c1cf53ee433e9e79a40e0c2cd320/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/885deb4f165d47258f99bd76b95e56ff/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/885deb4f165d47258f99bd76b95e56ff/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/815e03dc4a322c652e2fea223f044009/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/815e03dc4a322c652e2fea223f044009/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/1980b634020f4617022eac1c465cf1c6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/1980b634020f4617022eac1c465cf1c6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/c6bf8524dd1694266bf85b5de64bec83/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/c6bf8524dd1694266bf85b5de64bec83/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/6801b8e4b0f36e370528679d3fc501d2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/6801b8e4b0f36e370528679d3fc501d2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/bc0537de9debaa3cadc9f911e9458609/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/bc0537de9debaa3cadc9f911e9458609/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/6bb25ca2ae33cfdd15a4aa5a69d1baa3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/6bb25ca2ae33cfdd15a4aa5a69d1baa3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/391c42ab2febe2fc279052f340a74f66/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/391c42ab2febe2fc279052f340a74f66/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/2a03e1d85ee5e488e344aa09a324f949/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/2a03e1d85ee5e488e344aa09a324f949/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/2b9e59b9c2d8c066171138a11c1dd1ee/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/2b9e59b9c2d8c066171138a11c1dd1ee/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/c9f86e79a74701b38ecef97825726332/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/c9f86e79a74701b38ecef97825726332/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/79e04463fe7158087356f3d3db09c450/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/79e04463fe7158087356f3d3db09c450/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/4721dea4175f2d5fc04a6d7c2d9352f8/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/4721dea4175f2d5fc04a6d7c2d9352f8/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/632ccb188dbcc3bf23d4419689367c50/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/632ccb188dbcc3bf23d4419689367c50/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/1d05f978adabceedabaf7f8d5cc67820/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/1d05f978adabceedabaf7f8d5cc67820/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/ba8fb70a59c1ff4473e0c98b4fa0c34c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/ba8fb70a59c1ff4473e0c98b4fa0c34c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/b5e06493e7e0180619e18d605304f2ed/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/b5e06493e7e0180619e18d605304f2ed/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/ee5753c281f445ac1052255b134d0eaa/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/ee5753c281f445ac1052255b134d0eaa/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/58b73bd7f7f634e2e3d2d09c92ebd6d8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/58b73bd7f7f634e2e3d2d09c92ebd6d8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/7fc84a911615925cbca4b39cdb58669e/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/7fc84a911615925cbca4b39cdb58669e/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/68b3bcc208e4f04d1ce57b2a38c32d35/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/68b3bcc208e4f04d1ce57b2a38c32d35/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/4f757a42140b941bc194cdd6c573cfa9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/4f757a42140b941bc194cdd6c573cfa9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/4d87f593bfc150cdeeacaecfff9c40ec/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/benjaminpreston/.gradle/caches/transforms-3/4d87f593bfc150cdeeacaecfff9c40ec/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:9-72
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:5-28:35
+	android:required
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:9-50
+uses-feature#com.google.ar.core.depth
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:5-31:35
+	android:required
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:31:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:9-48
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:34:9-53:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:39:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:37:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:40:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:44:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:47:13-49:40
+	android:value
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:49:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:48:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:50:13-52:40
+	android:value
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:52:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:51:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:55:9-57:33
+	android:value
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:57:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:56:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:58:9-60:36
+	android:value
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:60:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:59:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:61:9-63:50
+	android:value
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:63:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:62:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:64:9-66:68
+	android:value
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:66:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:65:13-42
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:67:9-69:36
+	android:value
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:69:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:68:13-61
+meta-data#com.google.ar.core
+ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:70:9-72:40
+	android:value
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from [:unityLibrary] /Users/benjaminpreston/Dilmer tutorial/Temp/gradleOut/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:71:13-46
+queries
+ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:29:5-31:15
+package#com.google.ar.core
+ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:30:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:36:9-38:41
+	android:value
+		ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:38:13-38
+	android:name
+		ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:37:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:40:9-46:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from [:arcore_client:] /Users/benjaminpreston/.gradle/caches/transforms-3/d1ffdd4f50d01cc531d67e29e58d29ff/transformed/arcore_client/AndroidManifest.xml:41:13-62
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/0d9c5ab54af66261b6cb7d570509dd56/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/0d9c5ab54af66261b6cb7d570509dd56/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/0d9c5ab54af66261b6cb7d570509dd56/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/0d9c5ab54af66261b6cb7d570509dd56/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/62d8b8a67289c8d04722d7b8f2f8e2e5/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/62d8b8a67289c8d04722d7b8f2f8e2e5/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/benjaminpreston/.gradle/caches/transforms-3/62d8b8a67289c8d04722d7b8f2f8e2e5/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
